@@ -1,0 +1,29 @@
+# Web Scraping & HTTP
+requests==2.32.3
+beautifulsoup4==4.12.3
+lxml==4.9.4
+
+# Data Processing
+pandas==2.2.2
+numpy==1.26.4
+
+# Web Framework (Flask for API)
+Flask==3.0.3
+Flask-CORS==4.0.0
+
+# Database
+sqlalchemy==2.0.31
+python-dotenv==1.0.1
+
+# API & Async
+aiohttp==3.9.5
+
+# Utilities
+click==8.1.7
+python-dateutil==2.8.2
+
+# Development
+pytest==7.4.4
+pytest-cov==4.1.0
+black==24.2.0
+flake8==7.1.1
